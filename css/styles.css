@@ -715,10 +715,6 @@ ul {margin-top: 0; margin-bottom: 0; padding-left: 0;} */
   color: var(--secondary-color);
 }
 
-.modal-input-field {
-  margin-bottom: 8px;
-}
-
 .modal-textarea {
   margin-bottom: 16px;
 }
@@ -747,6 +743,8 @@ ul {margin-top: 0; margin-bottom: 0; padding-left: 0;} */
 
 .modal-form-input-thumb {
   position: relative;
+
+  margin-bottom: 8px;
 
   color: var(--secondary-color);
 }
